@@ -1,5 +1,5 @@
 # Core deps
-setuptools == 40.0
+setuptools == 65.5.1
 
 # Generic dependencies
 sidekick ~= 0.4
